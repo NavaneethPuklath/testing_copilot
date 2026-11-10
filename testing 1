@@ -346,3 +346,32 @@ print(test_data)
 # ================================================================
 # END SYNTHETIC TEST CHANGE
 # ================================================================
+
+
+
+# ================================================================
+# SYNTHETIC TEST CHANGE
+# Test Case: 17
+# Language: C++
+# Type: Addition
+# Generated: 2026-11-10T22:59:29.434Z
+# Run ID: 15693bdd
+# Commit: 1/14
+# Purpose: Controlled GitHub automation experiment
+# ================================================================
+
+synthetic_cpp_17_15693bdd = r"""
+
+int synthetic_a = 10;
+
+int synthetic_b = 20;
+
+int synthetic_result =
+    synthetic_a +
+    synthetic_b;
+
+"""
+
+# ================================================================
+# END SYNTHETIC TEST CHANGE
+# ================================================================
