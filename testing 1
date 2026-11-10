@@ -1,0 +1,27 @@
+from pydantic import BaseModel, Field
+
+
+class LookalikeDiscoveryResponse(BaseModel):
+    original_domain: str
+    brand: str
+    discovered_count: int
+    discovered_domains: list[str]
+    source: list[str]
+    limited: bool
+    status: str = "unknown"
+    source_reports: list[dict] = Field(default_factory=list)
+    provenance: dict[str, list[str]] = Field(default_factory=dict)
+    suffix_counts: dict[str, int] = Field(default_factory=dict)
+    coverage: str = ""
+    observed_count: int = 0
+    elapsed_seconds: float = 0
+
+
+class ActiveDomainDiscoveryResponse(BaseModel):
+    original_domain: str
+    discovered_count: int
+    active_count: int
+    active_domains: list[str]
+    status: str = "unknown"
+    source_reports: list[dict] = Field(default_factory=list)
+    coverage: str = ""
