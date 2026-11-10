@@ -596,3 +596,41 @@ print(test_message)
 # ================================================================
 # END SYNTHETIC TEST CHANGE
 # ================================================================
+
+
+
+# ================================================================
+# SYNTHETIC TEST CHANGE
+# Test Case: 30
+# Language: Python
+# Type: Search
+# Generated: 2026-11-10T22:59:51.080Z
+# Run ID: ab7969d8
+# Commit: 10/14
+# Purpose: Controlled GitHub automation experiment
+# ================================================================
+
+synthetic_numbers = [
+
+    10,
+
+    20,
+
+    30,
+
+    40
+
+]
+
+synthetic_target = 30
+
+synthetic_found = (
+    synthetic_target
+    in synthetic_numbers
+)
+
+print(synthetic_found)
+
+# ================================================================
+# END SYNTHETIC TEST CHANGE
+# ================================================================
