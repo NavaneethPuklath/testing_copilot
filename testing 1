@@ -231,3 +231,34 @@ if (
 # ================================================================
 # END SYNTHETIC TEST CHANGE
 # ================================================================
+
+
+
+# ================================================================
+# SYNTHETIC TEST CHANGE
+# Test Case: 15
+# Language: Python
+# Type: Minimum Value
+# Generated: 2026-11-10T03:58:13.541Z
+# Run ID: 67d6f231
+# Commit: 8/11
+# Purpose: Controlled GitHub automation experiment
+# ================================================================
+
+synthetic_numbers = [
+    10,
+    50,
+    20,
+    80,
+    30
+]
+
+synthetic_minimum = min(
+    synthetic_numbers
+)
+
+print(synthetic_minimum)
+
+# ================================================================
+# END SYNTHETIC TEST CHANGE
+# ================================================================
