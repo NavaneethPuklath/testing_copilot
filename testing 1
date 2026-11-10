@@ -634,3 +634,34 @@ print(synthetic_found)
 # ================================================================
 # END SYNTHETIC TEST CHANGE
 # ================================================================
+
+
+
+# ================================================================
+# SYNTHETIC TEST CHANGE
+# Test Case: 13
+# Language: Python
+# Type: List Comprehension
+# Generated: 2026-11-10T22:59:53.527Z
+# Run ID: 6c4d8224
+# Commit: 11/14
+# Purpose: Controlled GitHub automation experiment
+# ================================================================
+
+synthetic_numbers = [
+    1,
+    2,
+    3,
+    4
+]
+
+synthetic_squares = [
+    number * number
+    for number in synthetic_numbers
+]
+
+print(synthetic_squares)
+
+# ================================================================
+# END SYNTHETIC TEST CHANGE
+# ================================================================
