@@ -1056,3 +1056,34 @@ except ValueError:
 # ================================================================
 # END SYNTHETIC TEST CHANGE
 # ================================================================
+
+
+
+# ================================================================
+# SYNTHETIC TEST CHANGE
+# Test Case: 21
+# Language: C++
+# Type: For Loop
+# Generated: 2026-11-17T02:47:15.785Z
+# Run ID: 86922f51
+# Commit: 7/9
+# Purpose: Controlled GitHub automation experiment
+# ================================================================
+
+synthetic_cpp_21_86922f51 = r"""
+
+for (
+    int synthetic_i = 0;
+    synthetic_i < 5;
+    synthetic_i++
+) {
+
+    // controlled test
+
+}
+
+"""
+
+# ================================================================
+# END SYNTHETIC TEST CHANGE
+# ================================================================
