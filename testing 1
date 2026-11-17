@@ -998,3 +998,34 @@ while (
 # ================================================================
 # END SYNTHETIC TEST CHANGE
 # ================================================================
+
+
+
+# ================================================================
+# SYNTHETIC TEST CHANGE
+# Test Case: 23
+# Language: C++
+# Type: Conditional
+# Generated: 2026-11-17T02:47:11.007Z
+# Run ID: f64a401f
+# Commit: 5/9
+# Purpose: Controlled GitHub automation experiment
+# ================================================================
+
+synthetic_cpp_23_f64a401f = r"""
+
+int synthetic_value = 10;
+
+if (
+    synthetic_value > 5
+) {
+
+    synthetic_value++;
+
+}
+
+"""
+
+# ================================================================
+# END SYNTHETIC TEST CHANGE
+# ================================================================
