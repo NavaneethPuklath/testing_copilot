@@ -1210,3 +1210,30 @@ print(synthetic_maximum)
 # ================================================================
 # END SYNTHETIC TEST CHANGE
 # ================================================================
+
+
+
+# ================================================================
+# SYNTHETIC TEST CHANGE
+# Test Case: 12
+# Language: Python
+# Type: Exception Handling
+# Generated: 2026-11-17T02:47:30.687Z
+# Run ID: 0805624d
+# Commit: 3/9
+# Purpose: Controlled GitHub automation experiment
+# ================================================================
+
+try:
+
+    synthetic_value = int("100")
+
+    print(synthetic_value)
+
+except ValueError:
+
+    print("Invalid value")
+
+# ================================================================
+# END SYNTHETIC TEST CHANGE
+# ================================================================
