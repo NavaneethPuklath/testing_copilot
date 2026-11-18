@@ -1846,3 +1846,32 @@ print(synthetic_found)
 # ================================================================
 # END SYNTHETIC TEST CHANGE
 # ================================================================
+
+
+
+# ================================================================
+# SYNTHETIC TEST CHANGE
+# Test Case: 17
+# Language: C++
+# Type: Addition
+# Generated: 2026-11-18T02:22:04.253Z
+# Run ID: 6620dac4
+# Commit: 7/13
+# Purpose: Controlled GitHub automation experiment
+# ================================================================
+
+synthetic_cpp_17_6620dac4 = r"""
+
+int synthetic_a = 10;
+
+int synthetic_b = 20;
+
+int synthetic_result =
+    synthetic_a +
+    synthetic_b;
+
+"""
+
+# ================================================================
+# END SYNTHETIC TEST CHANGE
+# ================================================================
