@@ -1455,3 +1455,24 @@ print(test_message)
 # ================================================================
 # END SYNTHETIC TEST CHANGE
 # ================================================================
+
+
+
+# ================================================================
+# SYNTHETIC TEST CHANGE
+# Test Case: 6
+# Language: Python
+# Type: For Loop
+# Generated: 2026-11-18T02:21:12.128Z
+# Run ID: d45d4a89
+# Commit: 3/10
+# Purpose: Controlled GitHub automation experiment
+# ================================================================
+
+for test_index in range(5):
+
+    print(test_index)
+
+# ================================================================
+# END SYNTHETIC TEST CHANGE
+# ================================================================
