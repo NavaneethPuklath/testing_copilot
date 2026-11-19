@@ -2387,3 +2387,28 @@ for (
 # ================================================================
 # END SYNTHETIC TEST CHANGE
 # ================================================================
+
+
+
+# ================================================================
+# SYNTHETIC TEST CHANGE
+# Test Case: 7
+# Language: Python
+# Type: While Loop
+# Generated: 2026-11-19T01:34:49.631Z
+# Run ID: 8901a022
+# Commit: 14/14
+# Purpose: Controlled GitHub automation experiment
+# ================================================================
+
+test_counter = 0
+
+while test_counter < 3:
+
+    print(test_counter)
+
+    test_counter += 1
+
+# ================================================================
+# END SYNTHETIC TEST CHANGE
+# ================================================================
