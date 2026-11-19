@@ -3381,3 +3381,34 @@ print(test_uppercase)
 # ================================================================
 # END SYNTHETIC TEST CHANGE
 # ================================================================
+
+
+
+# ================================================================
+# SYNTHETIC TEST CHANGE
+# Test Case: 14
+# Language: Python
+# Type: Maximum Value
+# Generated: 2026-11-19T07:36:07.436Z
+# Run ID: 94078fec
+# Commit: 3/12
+# Purpose: Controlled GitHub automation experiment
+# ================================================================
+
+synthetic_numbers = [
+    10,
+    50,
+    20,
+    80,
+    30
+]
+
+synthetic_maximum = max(
+    synthetic_numbers
+)
+
+print(synthetic_maximum)
+
+# ================================================================
+# END SYNTHETIC TEST CHANGE
+# ================================================================
