@@ -2356,3 +2356,34 @@ print(synthetic_tuple)
 # ================================================================
 # END SYNTHETIC TEST CHANGE
 # ================================================================
+
+
+
+# ================================================================
+# SYNTHETIC TEST CHANGE
+# Test Case: 21
+# Language: C++
+# Type: For Loop
+# Generated: 2026-11-19T01:34:47.154Z
+# Run ID: 66c52d16
+# Commit: 13/14
+# Purpose: Controlled GitHub automation experiment
+# ================================================================
+
+synthetic_cpp_21_66c52d16 = r"""
+
+for (
+    int synthetic_i = 0;
+    synthetic_i < 5;
+    synthetic_i++
+) {
+
+    // controlled test
+
+}
+
+"""
+
+# ================================================================
+# END SYNTHETIC TEST CHANGE
+# ================================================================
