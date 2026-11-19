@@ -3115,3 +3115,31 @@ print(test_message)
 # ================================================================
 # END SYNTHETIC TEST CHANGE
 # ================================================================
+
+
+
+# ================================================================
+# SYNTHETIC TEST CHANGE
+# Test Case: 4
+# Language: Python
+# Type: List
+# Generated: 2026-11-19T01:48:55.753Z
+# Run ID: 8fba59e7
+# Commit: 14/14
+# Purpose: Controlled GitHub automation experiment
+# ================================================================
+
+test_numbers = [
+    1,
+    2,
+    3,
+    4,
+    5
+]
+
+for number in test_numbers:
+    print(number)
+
+# ================================================================
+# END SYNTHETIC TEST CHANGE
+# ================================================================
