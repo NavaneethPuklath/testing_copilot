@@ -2183,3 +2183,34 @@ print(test_data)
 # ================================================================
 # END SYNTHETIC TEST CHANGE
 # ================================================================
+
+
+
+# ================================================================
+# SYNTHETIC TEST CHANGE
+# Test Case: 21
+# Language: C++
+# Type: For Loop
+# Generated: 2026-11-19T01:34:31.116Z
+# Run ID: 61baa53d
+# Commit: 7/14
+# Purpose: Controlled GitHub automation experiment
+# ================================================================
+
+synthetic_cpp_21_61baa53d = r"""
+
+for (
+    int synthetic_i = 0;
+    synthetic_i < 5;
+    synthetic_i++
+) {
+
+    // controlled test
+
+}
+
+"""
+
+# ================================================================
+# END SYNTHETIC TEST CHANGE
+# ================================================================
