@@ -2687,3 +2687,34 @@ int synthetic_result =
 # ================================================================
 # END SYNTHETIC TEST CHANGE
 # ================================================================
+
+
+
+# ================================================================
+# SYNTHETIC TEST CHANGE
+# Test Case: 21
+# Language: C++
+# Type: For Loop
+# Generated: 2026-11-19T01:35:24.339Z
+# Run ID: cdc06645
+# Commit: 11/12
+# Purpose: Controlled GitHub automation experiment
+# ================================================================
+
+synthetic_cpp_21_cdc06645 = r"""
+
+for (
+    int synthetic_i = 0;
+    synthetic_i < 5;
+    synthetic_i++
+) {
+
+    // controlled test
+
+}
+
+"""
+
+# ================================================================
+# END SYNTHETIC TEST CHANGE
+# ================================================================
