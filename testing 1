@@ -2573,3 +2573,34 @@ print(test_enabled)
 # ================================================================
 # END SYNTHETIC TEST CHANGE
 # ================================================================
+
+
+
+# ================================================================
+# SYNTHETIC TEST CHANGE
+# Test Case: 21
+# Language: C++
+# Type: For Loop
+# Generated: 2026-11-19T01:35:14.117Z
+# Run ID: 6c7de207
+# Commit: 7/12
+# Purpose: Controlled GitHub automation experiment
+# ================================================================
+
+synthetic_cpp_21_6c7de207 = r"""
+
+for (
+    int synthetic_i = 0;
+    synthetic_i < 5;
+    synthetic_i++
+) {
+
+    // controlled test
+
+}
+
+"""
+
+# ================================================================
+# END SYNTHETIC TEST CHANGE
+# ================================================================
