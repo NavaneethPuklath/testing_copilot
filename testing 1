@@ -3062,3 +3062,34 @@ for test_index in range(5):
 # ================================================================
 # END SYNTHETIC TEST CHANGE
 # ================================================================
+
+
+
+# ================================================================
+# SYNTHETIC TEST CHANGE
+# Test Case: 15
+# Language: Python
+# Type: Minimum Value
+# Generated: 2026-11-19T01:48:50.048Z
+# Run ID: 57243fb5
+# Commit: 12/14
+# Purpose: Controlled GitHub automation experiment
+# ================================================================
+
+synthetic_numbers = [
+    10,
+    50,
+    20,
+    80,
+    30
+]
+
+synthetic_minimum = min(
+    synthetic_numbers
+)
+
+print(synthetic_minimum)
+
+# ================================================================
+# END SYNTHETIC TEST CHANGE
+# ================================================================
