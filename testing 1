@@ -3232,3 +3232,30 @@ print(synthetic_result)
 # ================================================================
 # END SYNTHETIC TEST CHANGE
 # ================================================================
+
+
+
+# ================================================================
+# SYNTHETIC TEST CHANGE
+# Test Case: 12
+# Language: Python
+# Type: Exception Handling
+# Generated: 2026-11-19T02:06:57.727Z
+# Run ID: c796e91a
+# Commit: 4/7
+# Purpose: Controlled GitHub automation experiment
+# ================================================================
+
+try:
+
+    synthetic_value = int("100")
+
+    print(synthetic_value)
+
+except ValueError:
+
+    print("Invalid value")
+
+# ================================================================
+# END SYNTHETIC TEST CHANGE
+# ================================================================
