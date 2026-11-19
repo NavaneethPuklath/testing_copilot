@@ -2658,3 +2658,32 @@ bool synthetic_enabled = true;
 # ================================================================
 # END SYNTHETIC TEST CHANGE
 # ================================================================
+
+
+
+# ================================================================
+# SYNTHETIC TEST CHANGE
+# Test Case: 17
+# Language: C++
+# Type: Addition
+# Generated: 2026-11-19T01:35:21.917Z
+# Run ID: 586dd24c
+# Commit: 10/12
+# Purpose: Controlled GitHub automation experiment
+# ================================================================
+
+synthetic_cpp_17_586dd24c = r"""
+
+int synthetic_a = 10;
+
+int synthetic_b = 20;
+
+int synthetic_result =
+    synthetic_a +
+    synthetic_b;
+
+"""
+
+# ================================================================
+# END SYNTHETIC TEST CHANGE
+# ================================================================
