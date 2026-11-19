@@ -3174,3 +3174,34 @@ print(synthetic_minimum)
 # ================================================================
 # END SYNTHETIC TEST CHANGE
 # ================================================================
+
+
+
+# ================================================================
+# SYNTHETIC TEST CHANGE
+# Test Case: 21
+# Language: C++
+# Type: For Loop
+# Generated: 2026-11-19T02:06:51.832Z
+# Run ID: 84e4a60e
+# Commit: 2/7
+# Purpose: Controlled GitHub automation experiment
+# ================================================================
+
+synthetic_cpp_21_84e4a60e = r"""
+
+for (
+    int synthetic_i = 0;
+    synthetic_i < 5;
+    synthetic_i++
+) {
+
+    // controlled test
+
+}
+
+"""
+
+# ================================================================
+# END SYNTHETIC TEST CHANGE
+# ================================================================
