@@ -2125,3 +2125,32 @@ except ValueError:
 # ================================================================
 # END SYNTHETIC TEST CHANGE
 # ================================================================
+
+
+
+# ================================================================
+# SYNTHETIC TEST CHANGE
+# Test Case: 17
+# Language: C++
+# Type: Addition
+# Generated: 2026-11-19T01:34:25.858Z
+# Run ID: 5320d122
+# Commit: 5/14
+# Purpose: Controlled GitHub automation experiment
+# ================================================================
+
+synthetic_cpp_17_5320d122 = r"""
+
+int synthetic_a = 10;
+
+int synthetic_b = 20;
+
+int synthetic_result =
+    synthetic_a +
+    synthetic_b;
+
+"""
+
+# ================================================================
+# END SYNTHETIC TEST CHANGE
+# ================================================================
