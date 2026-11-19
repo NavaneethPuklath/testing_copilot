@@ -3563,3 +3563,34 @@ print(synthetic_maximum)
 # ================================================================
 # END SYNTHETIC TEST CHANGE
 # ================================================================
+
+
+
+# ================================================================
+# SYNTHETIC TEST CHANGE
+# Test Case: 21
+# Language: C++
+# Type: For Loop
+# Generated: 2026-11-19T07:36:24.189Z
+# Run ID: 207d4f22
+# Commit: 9/12
+# Purpose: Controlled GitHub automation experiment
+# ================================================================
+
+synthetic_cpp_21_207d4f22 = r"""
+
+for (
+    int synthetic_i = 0;
+    synthetic_i < 5;
+    synthetic_i++
+) {
+
+    // controlled test
+
+}
+
+"""
+
+# ================================================================
+# END SYNTHETIC TEST CHANGE
+# ================================================================
