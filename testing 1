@@ -4553,3 +4553,30 @@ for (
 # ================================================================
 # END SYNTHETIC TEST CHANGE
 # ================================================================
+
+
+
+# ================================================================
+# SYNTHETIC TEST CHANGE
+# Test Case: 12
+# Language: Python
+# Type: Exception Handling
+# Generated: 2026-11-20T22:34:26.834Z
+# Run ID: 867e5a61
+# Commit: 3/14
+# Purpose: Controlled GitHub automation experiment
+# ================================================================
+
+try:
+
+    synthetic_value = int("100")
+
+    print(synthetic_value)
+
+except ValueError:
+
+    print("Invalid value")
+
+# ================================================================
+# END SYNTHETIC TEST CHANGE
+# ================================================================
