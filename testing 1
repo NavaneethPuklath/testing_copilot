@@ -4841,3 +4841,31 @@ int synthetic_numbers[] = {
 # ================================================================
 # END SYNTHETIC TEST CHANGE
 # ================================================================
+
+
+
+# ================================================================
+# SYNTHETIC TEST CHANGE
+# Test Case: 4
+# Language: Python
+# Type: List
+# Generated: 2026-11-20T22:34:53.752Z
+# Run ID: 8fe32b39
+# Commit: 13/14
+# Purpose: Controlled GitHub automation experiment
+# ================================================================
+
+test_numbers = [
+    1,
+    2,
+    3,
+    4,
+    5
+]
+
+for number in test_numbers:
+    print(number)
+
+# ================================================================
+# END SYNTHETIC TEST CHANGE
+# ================================================================
