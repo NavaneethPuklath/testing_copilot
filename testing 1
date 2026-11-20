@@ -4869,3 +4869,36 @@ for number in test_numbers:
 # ================================================================
 # END SYNTHETIC TEST CHANGE
 # ================================================================
+
+
+
+# ================================================================
+# SYNTHETIC TEST CHANGE
+# Test Case: 29
+# Language: Python
+# Type: Sorting
+# Generated: 2026-11-20T22:34:56.274Z
+# Run ID: 99e6f59f
+# Commit: 14/14
+# Purpose: Controlled GitHub automation experiment
+# ================================================================
+
+synthetic_numbers = [
+
+    5,
+
+    2,
+
+    8,
+
+    1
+
+]
+
+synthetic_numbers.sort()
+
+print(synthetic_numbers)
+
+# ================================================================
+# END SYNTHETIC TEST CHANGE
+# ================================================================
