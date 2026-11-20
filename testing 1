@@ -3681,3 +3681,34 @@ int synthetic_numbers[] = {
 # ================================================================
 # END SYNTHETIC TEST CHANGE
 # ================================================================
+
+
+
+# ================================================================
+# SYNTHETIC TEST CHANGE
+# Test Case: 21
+# Language: C++
+# Type: For Loop
+# Generated: 2026-11-20T01:48:39.236Z
+# Run ID: dcb34a29
+# Commit: 1/13
+# Purpose: Controlled GitHub automation experiment
+# ================================================================
+
+synthetic_cpp_21_dcb34a29 = r"""
+
+for (
+    int synthetic_i = 0;
+    synthetic_i < 5;
+    synthetic_i++
+) {
+
+    // controlled test
+
+}
+
+"""
+
+# ================================================================
+# END SYNTHETIC TEST CHANGE
+# ================================================================
