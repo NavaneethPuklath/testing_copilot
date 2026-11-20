@@ -4215,3 +4215,34 @@ std::string synthetic_message =
 # ================================================================
 # END SYNTHETIC TEST CHANGE
 # ================================================================
+
+
+
+# ================================================================
+# SYNTHETIC TEST CHANGE
+# Test Case: 21
+# Language: C++
+# Type: For Loop
+# Generated: 2026-11-20T02:13:05.142Z
+# Run ID: f6d8292a
+# Commit: 6/15
+# Purpose: Controlled GitHub automation experiment
+# ================================================================
+
+synthetic_cpp_21_f6d8292a = r"""
+
+for (
+    int synthetic_i = 0;
+    synthetic_i < 5;
+    synthetic_i++
+) {
+
+    // controlled test
+
+}
+
+"""
+
+# ================================================================
+# END SYNTHETIC TEST CHANGE
+# ================================================================
