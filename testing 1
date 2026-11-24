@@ -5019,3 +5019,34 @@ print(test_message)
 # ================================================================
 # END SYNTHETIC TEST CHANGE
 # ================================================================
+
+
+
+# ================================================================
+# SYNTHETIC TEST CHANGE
+# Test Case: 13
+# Language: Python
+# Type: List Comprehension
+# Generated: 2026-11-24T02:20:25.819Z
+# Run ID: 5274f6d3
+# Commit: 5/11
+# Purpose: Controlled GitHub automation experiment
+# ================================================================
+
+synthetic_numbers = [
+    1,
+    2,
+    3,
+    4
+]
+
+synthetic_squares = [
+    number * number
+    for number in synthetic_numbers
+]
+
+print(synthetic_squares)
+
+# ================================================================
+# END SYNTHETIC TEST CHANGE
+# ================================================================
