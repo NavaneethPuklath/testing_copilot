@@ -5236,3 +5236,34 @@ print(result)
 # ================================================================
 # END SYNTHETIC TEST CHANGE
 # ================================================================
+
+
+
+# ================================================================
+# SYNTHETIC TEST CHANGE
+# Test Case: 13
+# Language: Python
+# Type: List Comprehension
+# Generated: 2026-11-24T02:20:50.556Z
+# Run ID: 27209a63
+# Commit: 2/14
+# Purpose: Controlled GitHub automation experiment
+# ================================================================
+
+synthetic_numbers = [
+    1,
+    2,
+    3,
+    4
+]
+
+synthetic_squares = [
+    number * number
+    for number in synthetic_numbers
+]
+
+print(synthetic_squares)
+
+# ================================================================
+# END SYNTHETIC TEST CHANGE
+# ================================================================
