@@ -5148,3 +5148,34 @@ print(test_message)
 # ================================================================
 # END SYNTHETIC TEST CHANGE
 # ================================================================
+
+
+
+# ================================================================
+# SYNTHETIC TEST CHANGE
+# Test Case: 15
+# Language: Python
+# Type: Minimum Value
+# Generated: 2026-11-24T02:20:39.281Z
+# Run ID: c029e06c
+# Commit: 10/11
+# Purpose: Controlled GitHub automation experiment
+# ================================================================
+
+synthetic_numbers = [
+    10,
+    50,
+    20,
+    80,
+    30
+]
+
+synthetic_minimum = min(
+    synthetic_numbers
+)
+
+print(synthetic_minimum)
+
+# ================================================================
+# END SYNTHETIC TEST CHANGE
+# ================================================================
