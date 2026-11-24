@@ -5668,3 +5668,32 @@ print(synthetic_found)
 # ================================================================
 # END SYNTHETIC TEST CHANGE
 # ================================================================
+
+
+
+# ================================================================
+# SYNTHETIC TEST CHANGE
+# Test Case: 17
+# Language: C++
+# Type: Addition
+# Generated: 2026-11-24T02:22:05.428Z
+# Run ID: 0f5c2419
+# Commit: 3/10
+# Purpose: Controlled GitHub automation experiment
+# ================================================================
+
+synthetic_cpp_17_0f5c2419 = r"""
+
+int synthetic_a = 10;
+
+int synthetic_b = 20;
+
+int synthetic_result =
+    synthetic_a +
+    synthetic_b;
+
+"""
+
+# ================================================================
+# END SYNTHETIC TEST CHANGE
+# ================================================================
