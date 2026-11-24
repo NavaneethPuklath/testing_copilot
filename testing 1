@@ -5535,3 +5535,36 @@ print(result)
 # ================================================================
 # END SYNTHETIC TEST CHANGE
 # ================================================================
+
+
+
+# ================================================================
+# SYNTHETIC TEST CHANGE
+# Test Case: 29
+# Language: Python
+# Type: Sorting
+# Generated: 2026-11-24T02:21:28.214Z
+# Run ID: 816ca949
+# Commit: 13/14
+# Purpose: Controlled GitHub automation experiment
+# ================================================================
+
+synthetic_numbers = [
+
+    5,
+
+    2,
+
+    8,
+
+    1
+
+]
+
+synthetic_numbers.sort()
+
+print(synthetic_numbers)
+
+# ================================================================
+# END SYNTHETIC TEST CHANGE
+# ================================================================
