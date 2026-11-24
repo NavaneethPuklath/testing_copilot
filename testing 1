@@ -5072,3 +5072,34 @@ print(test_message)
 # ================================================================
 # END SYNTHETIC TEST CHANGE
 # ================================================================
+
+
+
+# ================================================================
+# SYNTHETIC TEST CHANGE
+# Test Case: 14
+# Language: Python
+# Type: Maximum Value
+# Generated: 2026-11-24T02:20:31.058Z
+# Run ID: 77c1e3c1
+# Commit: 7/11
+# Purpose: Controlled GitHub automation experiment
+# ================================================================
+
+synthetic_numbers = [
+    10,
+    50,
+    20,
+    80,
+    30
+]
+
+synthetic_maximum = max(
+    synthetic_numbers
+)
+
+print(synthetic_maximum)
+
+# ================================================================
+# END SYNTHETIC TEST CHANGE
+# ================================================================
