@@ -6549,3 +6549,34 @@ print(synthetic_tuple)
 # ================================================================
 # END SYNTHETIC TEST CHANGE
 # ================================================================
+
+
+
+# ================================================================
+# SYNTHETIC TEST CHANGE
+# Test Case: 14
+# Language: Python
+# Type: Maximum Value
+# Generated: 2026-11-27T01:42:23.402Z
+# Run ID: 76fa9949
+# Commit: 4/7
+# Purpose: Controlled GitHub automation experiment
+# ================================================================
+
+synthetic_numbers = [
+    10,
+    50,
+    20,
+    80,
+    30
+]
+
+synthetic_maximum = max(
+    synthetic_numbers
+)
+
+print(synthetic_maximum)
+
+# ================================================================
+# END SYNTHETIC TEST CHANGE
+# ================================================================
