@@ -6031,3 +6031,30 @@ int syntheticAdd(
 # ================================================================
 # END SYNTHETIC TEST CHANGE
 # ================================================================
+
+
+
+# ================================================================
+# SYNTHETIC TEST CHANGE
+# Test Case: 28
+# Language: Python
+# Type: Lambda
+# Generated: 2026-11-27T01:33:45.419Z
+# Run ID: f059f57c
+# Commit: 6/6
+# Purpose: Controlled GitHub automation experiment
+# ================================================================
+
+synthetic_square = (
+    lambda x: x * x
+)
+
+synthetic_result = (
+    synthetic_square(5)
+)
+
+print(synthetic_result)
+
+# ================================================================
+# END SYNTHETIC TEST CHANGE
+# ================================================================
