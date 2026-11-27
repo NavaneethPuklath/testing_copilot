@@ -6328,3 +6328,41 @@ while test_counter < 3:
 # ================================================================
 # END SYNTHETIC TEST CHANGE
 # ================================================================
+
+
+
+# ================================================================
+# SYNTHETIC TEST CHANGE
+# Test Case: 30
+# Language: Python
+# Type: Search
+# Generated: 2026-11-27T01:34:47.859Z
+# Run ID: f85f56d0
+# Commit: 11/14
+# Purpose: Controlled GitHub automation experiment
+# ================================================================
+
+synthetic_numbers = [
+
+    10,
+
+    20,
+
+    30,
+
+    40
+
+]
+
+synthetic_target = 30
+
+synthetic_found = (
+    synthetic_target
+    in synthetic_numbers
+)
+
+print(synthetic_found)
+
+# ================================================================
+# END SYNTHETIC TEST CHANGE
+# ================================================================
