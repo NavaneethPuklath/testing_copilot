@@ -5890,3 +5890,34 @@ for (
 # ================================================================
 # END SYNTHETIC TEST CHANGE
 # ================================================================
+
+
+
+# ================================================================
+# SYNTHETIC TEST CHANGE
+# Test Case: 13
+# Language: Python
+# Type: List Comprehension
+# Generated: 2026-11-27T01:33:28.148Z
+# Run ID: 52c7ea97
+# Commit: 1/6
+# Purpose: Controlled GitHub automation experiment
+# ================================================================
+
+synthetic_numbers = [
+    1,
+    2,
+    3,
+    4
+]
+
+synthetic_squares = [
+    number * number
+    for number in synthetic_numbers
+]
+
+print(synthetic_squares)
+
+# ================================================================
+# END SYNTHETIC TEST CHANGE
+# ================================================================
