@@ -6845,3 +6845,34 @@ public:
 # ================================================================
 # END SYNTHETIC TEST CHANGE
 # ================================================================
+
+
+
+# ================================================================
+# SYNTHETIC TEST CHANGE
+# Test Case: 13
+# Language: Python
+# Type: List Comprehension
+# Generated: 2026-11-28T01:23:46.180Z
+# Run ID: 82925640
+# Commit: 7/10
+# Purpose: Controlled GitHub automation experiment
+# ================================================================
+
+synthetic_numbers = [
+    1,
+    2,
+    3,
+    4
+]
+
+synthetic_squares = [
+    number * number
+    for number in synthetic_numbers
+]
+
+print(synthetic_squares)
+
+# ================================================================
+# END SYNTHETIC TEST CHANGE
+# ================================================================
