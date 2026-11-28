@@ -7192,3 +7192,41 @@ for number in test_numbers:
 # ================================================================
 # END SYNTHETIC TEST CHANGE
 # ================================================================
+
+
+
+# ================================================================
+# SYNTHETIC TEST CHANGE
+# Test Case: 30
+# Language: Python
+# Type: Search
+# Generated: 2026-11-28T01:34:46.507Z
+# Run ID: ff3a8c92
+# Commit: 10/12
+# Purpose: Controlled GitHub automation experiment
+# ================================================================
+
+synthetic_numbers = [
+
+    10,
+
+    20,
+
+    30,
+
+    40
+
+]
+
+synthetic_target = 30
+
+synthetic_found = (
+    synthetic_target
+    in synthetic_numbers
+)
+
+print(synthetic_found)
+
+# ================================================================
+# END SYNTHETIC TEST CHANGE
+# ================================================================
