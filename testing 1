@@ -7230,3 +7230,36 @@ print(synthetic_found)
 # ================================================================
 # END SYNTHETIC TEST CHANGE
 # ================================================================
+
+
+
+# ================================================================
+# SYNTHETIC TEST CHANGE
+# Test Case: 29
+# Language: Python
+# Type: Sorting
+# Generated: 2026-11-28T01:34:49.318Z
+# Run ID: 60f074a7
+# Commit: 11/12
+# Purpose: Controlled GitHub automation experiment
+# ================================================================
+
+synthetic_numbers = [
+
+    5,
+
+    2,
+
+    8,
+
+    1
+
+]
+
+synthetic_numbers.sort()
+
+print(synthetic_numbers)
+
+# ================================================================
+# END SYNTHETIC TEST CHANGE
+# ================================================================
