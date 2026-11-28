@@ -7164,3 +7164,31 @@ except ValueError:
 # ================================================================
 # END SYNTHETIC TEST CHANGE
 # ================================================================
+
+
+
+# ================================================================
+# SYNTHETIC TEST CHANGE
+# Test Case: 4
+# Language: Python
+# Type: List
+# Generated: 2026-11-28T01:34:43.599Z
+# Run ID: 5a8a7be6
+# Commit: 9/12
+# Purpose: Controlled GitHub automation experiment
+# ================================================================
+
+test_numbers = [
+    1,
+    2,
+    3,
+    4,
+    5
+]
+
+for number in test_numbers:
+    print(number)
+
+# ================================================================
+# END SYNTHETIC TEST CHANGE
+# ================================================================
